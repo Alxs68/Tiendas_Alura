@@ -1,6 +1,10 @@
 # Tiendas_Alura
 Análisis de datos de unas tiendas para analizar su rendimiento y tomar la decisión de venta de una de ellas 
 
+[![Abrir en Colab](https://colab.research.googleusercontent.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Alxs68/Tiendas_Alura/blob/main/AluraStores_Final.ipynb)
+
+
 ## Análisis del Rendimiento de Tiendas
 
 ## Introducción
