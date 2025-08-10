@@ -1,0 +1,19 @@
+# Notebooks
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# Datos (evitar subir archivos grandes)
+data/
+*.csv
+*.xlsx
+*.zip
+
+# Credenciales/entornos
+.env
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
